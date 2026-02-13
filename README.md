@@ -1,1 +1,0 @@
-# svarevadaria.github.io
