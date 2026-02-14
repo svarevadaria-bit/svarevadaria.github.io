@@ -1,0 +1,108 @@
+.oblozhka{
+    background-image: url(https://static.tildacdn.biz/tild6661-6366-4161-a435-313261313337/woman2.jpg);
+    align-items: center;
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 5px;
+}
+
+.button{
+    background: transparent;
+    margin: 25px;
+    transition: all 0.5 ease-in-out;
+    border-color: blue;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+.button:hover{
+    background-color: #1689b6;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border: none;
+    border-radius: 25px;
+    transform: scale(1);
+}
+
+h1{
+    font-size: 500px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: azure;
+}
+
+h3{
+    font-size: 50px;
+    color: rgba(255, 255, 255, 0.932);
+}
+
+h4{
+    font-size: 25px;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.flex-card{
+    background: azure;
+    flex: 1;
+    padding-top: 10px;
+    border: 3px solid #1689b6;
+    border-width: 3px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 30px;
+}
+
+.button2{
+    background: transparent;
+    margin: 25px;
+    transition: all 0.5 ease-in-out;
+    border-color: blue;
+    color: rgb(10, 6, 255);
+    font-size: 25px;
+    border-radius: 25px;
+}
+
+.button2:hover{
+    background-color: #1689b6;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    border: none;
+    border-radius: 25px;
+    transform: scale(1);
+}
+
+img{
+    border-radius: 30px;
+}
+
+header{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    align-items: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    align-items: center;
+}
+
+.about{
+    text-align: center;
+    align-items: center;
+}
